@@ -1,0 +1,9 @@
+node_modules
+*.log
+.DS_Store
+
+# poi dist
+dist
+/node_modules
+.idea
+.editorconfig
