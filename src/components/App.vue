@@ -17,6 +17,7 @@
 </script>
 <style>
     @import "../assets/generic/_normalize.scss";
+    @import "../assets/generic/_typography.scss";
 
     #app {
         min-width: 100vw;

@@ -21,5 +21,6 @@
         left: 0;
         bottom: 0;
         right: 0;
+        composes: color-primary from '../../assets/settings/colors.module.scss'
     }
 </style>
